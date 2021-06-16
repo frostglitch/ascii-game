@@ -1,2 +1,2 @@
-# ascii-game
-C++ console game using ascii characters
+# ASCII Game
+C++ console game using ascii characters.
